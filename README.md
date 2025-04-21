@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">## 👋 Olá! Eu sou Alejandro<br><br>🎓 Atualmente sou estudante de Análise e desenvolvimento de sistemas e estou me dedicando ao aprendizado de lógica de programação e desenvolvimento web.<br><br>💻 Estou desenvolvendo meus conhecimentos em:<br><br>- HTML, CSS, JavaScript e Python.<br>- Lógica de programação.<br><br>🎯 Meus objetivos incluem:<br><br>- Criar projetos práticos para aplicar e fixar os conceitos que estou aprendendo.<br>- Evoluir em desenvolvimento web frontend.<br>- Entender profundamente os fundamentos para criação de aplicação ou sites, focando em satisfação do cliente a tecnologias avançadas.<br><br>🚀 Estou sempre buscando aprender mais e compartilhar meu progresso aqui no GitHub.<br><br>---</p>
+<p align="left"> 👋 Olá! Eu sou Alejandro<br><br>🎓 Atualmente sou estudante de Análise e desenvolvimento de sistemas e estou me dedicando ao aprendizado de lógica de programação e desenvolvimento web.<br><br>💻 Estou desenvolvendo meus conhecimentos em:<br><br>- HTML, CSS, JavaScript e Python.<br>- Lógica de programação.<br><br>🎯 Meus objetivos incluem:<br><br>- Criar projetos práticos para aplicar e fixar os conceitos que estou aprendendo.<br>- Evoluir em desenvolvimento web frontend.<br>- Entender profundamente os fundamentos para criação de aplicação ou sites, focando em satisfação do cliente a tecnologias avançadas.<br><br>🚀 Estou sempre buscando aprender mais e compartilhar meu progresso aqui no GitHub.<br><br>---</p>
 
 ###
 
