@@ -59,5 +59,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="45" alt="instagram logo"  />
   </a>
 </div>
-
-###
